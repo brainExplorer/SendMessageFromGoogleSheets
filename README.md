@@ -1,4 +1,4 @@
-# SendMessageFromGoogleSheets
+# Google Sheets, Python, Selenium, web scrapping
 We build an automated web scraping and messaging tool. This tool will:
 1️⃣ Scrape user data from a specific website.
 2️⃣ Check for duplicate entries in a Google Sheet.
