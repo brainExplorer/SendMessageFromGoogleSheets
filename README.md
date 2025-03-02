@@ -9,7 +9,6 @@ We build an automated web scraping and messaging tool. This tool will:
 ? What You’ll Do (Your Tasks):
 ✅ Web Scraping & Data Collection
 - Open a specific website.
-- Search for users in North Carolina, USA.
 - Apply filters to exclude vendors and show only online users.
 - Extract and store the following details:
 - Username
